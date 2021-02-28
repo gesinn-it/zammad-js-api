@@ -32,5 +32,9 @@ module.exports = {
     TICKET_PRIORITY_DELETE: "/ticket_priorities",
     TICKET_ARTICLE_BY_TICKET: "/ticket_articles/by_ticket/",
     TICKET_ARTICLE_SHOW: "/ticket_articles/",
-    TICKET_ARTICLE_CREATE: "/ticket_articles"
+    TICKET_ARTICLE_CREATE: "/ticket_articles",
+    OBJECT_LIST: "/object_manager_attributes",
+    OBJECT_SHOW: "/object_manager_attributes/",
+    OBJECT_CREATE: "/object_manager_attributes",
+    OBJECT_UPDATE: "/object_manager_attributes/",
 };
